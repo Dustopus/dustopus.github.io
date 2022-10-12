@@ -1,0 +1,9 @@
+[submodule "Dustopus-Blog/MyHugoBlog/themes/loveit"]
+	path = Dustopus-Blog/MyHugoBlog/themes/loveit
+	url = https://github.com/Dustopus/LoveIt
+[submodule "Dustopus-Blog/Dustopus-Blog/themes/loveit"]
+	path = Dustopus-Blog/Dustopus-Blog/themes/loveit
+	url = https://github.com/Dustopus/LoveIt
+[submodule "Dustopus-Blog/themes/loveit"]
+	path = Dustopus-Blog/themes/loveit
+	url = https://github.com/Dustopus/LoveIt
