@@ -4,7 +4,7 @@ baseURL = "https://dustopus.github.io/"
 theme = "LoveIt"
 
 # 网站标题
-title = "我的全新 Hugo 网站"
+title = "Dustopus-Blog"
 
 # 网站语言, 仅在这里 CN 大写 ["en", "zh-CN", "fr", "pl", ...]
 languageCode = "zh-CN"
@@ -32,8 +32,8 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 
 # 作者配置
 [author]
-  name = "xxxx"
-  email = ""
+  name = "Dustopus"
+  email = "dustopus@foxmail.com"
   link = ""
 
 # 菜单配置
@@ -79,7 +79,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   # 网站标题, 用于 Open Graph 和 Twitter Cards
   title = "我的网站"
   # 网站描述, 用于 RSS, SEO, Open Graph 和 Twitter Cards
-  description = "这是我的全新 Hugo 网站"
+  description = "Be wired in your own way"
   # 网站图片, 用于 Open Graph 和 Twitter Cards
   images = ["/logo.png"]
 
